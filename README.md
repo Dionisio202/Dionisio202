@@ -42,17 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
 </div>
 
-### 💻 Tecnologías y Herramientas Detalladas
 
-- **Lenguajes:** JavaScript | TypeScript | C# | Python | SQL | C
-- **Frontend:** React | Blazor WebAssembly | Tailwind CSS | HTML5 | CSS3
-- **Backend:** Express.js | ASP.NET Core | Django | Flask | Node.js
-- **Base de datos:** SQL Server | MySQL | PostgreSQL
-- **DevOps & Cloud:** Docker | Git | GitHub Actions | NGINX | AWS | Linux
-- **Herramientas de Desarrollo:** Visual Studio | Balsamiq | Figma
-- **Seguridad & Otros:** JWT | AES | STRIDE | Clean Architecture | SCRUM | Business Intelligence
-
----
 
 ## 🚀 Proyectos Destacados
 
