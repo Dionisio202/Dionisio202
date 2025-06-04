@@ -38,9 +38,7 @@
 
 ### 📈 Estadísticas de Desarrollo
 
-<a href="https://github.com/Dionisio202">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Dionisio202&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
-</a>
+
 
 <a href="https://github.com/Dionisio202">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionisio202&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&card_width=400" alt="Top Languages"/>
