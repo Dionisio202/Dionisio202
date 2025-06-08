@@ -1,6 +1,8 @@
 # 👨‍💻 Edison Ortiz
 <h1 align="center">Hey 👋 What's Up?</h1>
-
+<p align="center">
+  <img src="./banner.gif" alt="Edison Ortiz Banner" />
+</p>
 <div align="center">
   <h3>Ingeniero de Software | Desarrollador Full Stack | Especialista en Automatización de Procesos</h3>
   <p>🎓 Estudiante de Ingeniería en Software en la Universidad Técnica de Ambato</p>
