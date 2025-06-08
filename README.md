@@ -101,9 +101,11 @@ Plataforma de trazabilidad con rutas protegidas, filtros avanzados por usuario, 
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-edison.ortiz.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solisedison@outlook.com)
+[![Email](https://img.shields.io/badge/Email-solisedison@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solisedison@outlook.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edison%20Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-ortiz-71ab41280/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/edison-ortiz](https://edison-portafolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://edison-portafolio.vercel.app/)
+
 
 </div>
 
