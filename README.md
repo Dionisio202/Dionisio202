@@ -4,11 +4,12 @@
   <img src="./banner.gif" alt="Edison Ortiz Banner" />
 </p>
 <div align="center">
-  <h3>Ingeniero de Software | Desarrollador Full Stack | Especialista en Automatización de Procesos</h3>
-  <p>🎓 Estudiante de Ingeniería en Software en la Universidad Técnica de Ambato</p>
-  <p>💼 Apasionado por construir soluciones web eficientes y seguras</p>
-  <p>🧠 Interesado en Business Intelligence, BPM, cifrado y sistemas distribuidos</p>
+  <h3>Software Engineer | Full Stack Developer | Process Automation (RPA) Specialist</h3>
+  <p>🎓 Software Engineering Student at Universidad Técnica de Ambato</p>
+  <p>💼 Passionate about building efficient and secure web solutions</p>
+  <p>🧠 Interested in Artificial Intelligence and Process Automation (RPA)</p>
 </div>
+
 
 ---
 
@@ -60,22 +61,13 @@ Solución empresarial con Blazor + SQL Server para automatizar procesos de propi
 ### 📝 **Sistema de Auditoría Web Flask**
 Plataforma de trazabilidad con rutas protegidas, filtros avanzados por usuario, logging seguro y dashboard de monitoreo en tiempo real.
 
----
-
-## 📈 Actualmente Trabajando En:
-
-- 📌 **Tesis Universitaria:** Automatización BPM con Blazor + Clean Architecture
-- 🔐 **Investigación en Seguridad:** Sistemas de cifrado con doble capa y control de permisos
-- 📊 **Business Intelligence:** Desarrollo de dashboards con Power BI y conexión a Data Warehouse
-- 🚀 **Sistemas Distribuidos:** Arquitecturas escalables y microservicios
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📈 Estadísticas de Desarrollo
+### 📈 Development Stats
 <a href="https://github.com/Dionisio202">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionisio202&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&card_width=400" alt="Top Languages"/>
 </a>
@@ -85,12 +77,12 @@ Plataforma de trazabilidad con rutas protegidas, filtros avanzados por usuario, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dionisio202&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FF6B6B&dates=8B949E&sideLabels=8B949E&border_radius=10" alt="GitHub Streak"/>
 </a>
 
-### 📈 Contribuciones
+### 📈 Contributions
 <a href="https://github.com/Dionisio202">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dionisio202&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
 </a>
 
-### 🏆 Logros GitHub
+### 🏆 GitHub Achievements
 <a href="https://github.com/Dionisio202">
   <img src="https://github-profile-trophy.vercel.app/?username=Dionisio202&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </a>
@@ -99,7 +91,7 @@ Plataforma de trazabilidad con rutas protegidas, filtros avanzados por usuario, 
 
 ---
 
-## 📬 Contacto y Conexión
+## 📬 Contact & Connect
 
 <div align="center">
   
@@ -108,17 +100,17 @@ Plataforma de trazabilidad con rutas protegidas, filtros avanzados por usuario, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edison%20Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-ortiz-71ab41280/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://edison-portafolio.vercel.app/)
 
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dionisio202&label=Visitas%20al%20Perfil&color=58A6FF&style=for-the-badge&logo=github" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Dionisio202&label=Profile%20Views&color=58A6FF&style=for-the-badge&logo=github" alt="Profile Views"/>
   
   <br><br>
   
-  **Gracias por visitar mi perfil 👋**  
-  *¡Estoy abierto a colaboraciones y nuevos desafíos!*
+  **Thank you for visiting my profile 👋**  
+  *I am open to collaborations and new challenges!*
   
 </div>
+
