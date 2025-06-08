@@ -65,7 +65,7 @@
   <img src="./weather_and_prediction.png" width="250" alt="Weather Prediction System"/><br>
   <h3>Weather Prediction System</h3>
   <p align="justify">Web-based system using Fuzzy Logic and Association Rules to predict weather precipitation level. Includes Genetic Algorithm for feature selection and dynamic fuzzy rule generation based on real meteorological data from Weatherbit.</p>
-  <a href="https://github.com/tu-repo-weather-prediction">
+  <a href="https://github.com/Dionisio202/Weather-Prediction-using-Fuzzy-Logic">
     <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </td>
