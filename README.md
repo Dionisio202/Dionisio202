@@ -1,5 +1,5 @@
-# 👨‍💻 Edison Ortiz
-<h1 align="center">Hey 👋 What's Up?</h1>
+
+<h1 align="center">Hey 👋 What's Up? I'm Edison Ortiz 👨‍💻</h1>
 <p align="center">
   <img src="./banner.gif" alt="Edison Ortiz Banner" />
 </p>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -47,20 +47,50 @@
 
 
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 🔐 **Repositorio Seguro**
-Plataforma web con cifrado AES-128 doble capa, control de acceso avanzado, sistema de permisos granular y firma digital para máxima seguridad de documentos.
+<div align="center">
 
-### 💰 **Simulador de Inversiones**
-Aplicación financiera desarrollada en React + Node.js para calcular tasas de interés y plazos de inversión, inspirado en el sistema bancario ecuatoriano con interfaz intuitiva.
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="./assets/repositorio-seguro.png" width="250" alt="Repositorio Seguro"/><br>
+      <h3>Secure Repository</h3>
+      <p align="justify">A web platform with double-layer AES-128 encryption, advanced access control, granular permissions system, and digital signature for maximum document security.</p>
+      <a href="https://github.com/tu-repo-repositorio-seguro">
+        <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </td>
+    <td align="center" width="300">
+      <img src="./assets/simulador-inversiones.png" width="250" alt="Simulador de Inversiones"/><br>
+      <h3>Investment Simulator</h3>
+      <p align="justify">Financial application built with React + Node.js to calculate interest rates and investment terms, inspired by Ecuadorian banking system with an intuitive interface.</p>
+      <a href="https://github.com/tu-repo-simulador-inversiones">
+        <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="./assets/gestion-bpm.png" width="250" alt="Gestión BPM DINNOVA"/><br>
+      <h3>BPM Process Management - DINNOVA</h3>
+      <p align="justify">Enterprise solution using Blazor + SQL Server to automate intellectual property processes at Universidad Técnica de Ambato, implementing Clean Architecture.</p>
+      <a href="https://github.com/tu-repo-gestion-bpm">
+        <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </td>
+    <td align="center" width="300">
+      <img src="./assets/auditoria-web.png" width="250" alt="Sistema de Auditoría Web Flask"/><br>
+      <h3>Web Audit System (Flask)</h3>
+      <p align="justify">Traceability platform with protected routes, advanced user filters, secure logging and real-time monitoring dashboard.</p>
+      <a href="https://github.com/tu-repo-auditoria-web">
+        <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🏢 **Gestión BPM DINNOVA**
-Solución empresarial con Blazor + SQL Server para automatizar procesos de propiedad intelectual en la Universidad Técnica de Ambato, implementando Clean Architecture.
-
-### 📝 **Sistema de Auditoría Web Flask**
-Plataforma de trazabilidad con rutas protegidas, filtros avanzados por usuario, logging seguro y dashboard de monitoreo en tiempo real.
-
+</div>
 
 ---
 ## 📊 GitHub Analytics
