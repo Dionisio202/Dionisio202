@@ -80,14 +80,20 @@
         <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </td>
-    <td align="center" width="300">
-      <img src="./assets/auditoria-web.png" width="250" alt="Sistema de Auditoría Web Flask"/><br>
-      <h3>Web Audit System (Flask)</h3>
-      <p align="justify">Traceability platform with protected routes, advanced user filters, secure logging and real-time monitoring dashboard.</p>
-      <a href="https://github.com/tu-repo-auditoria-web">
-        <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </td>
+   <td align="center" width="300">
+  <img src="./trackr.png" width="250" alt="ForexRadar App"/><br>
+  <h3>ForexRadar App (React + Django)</h3>
+  <p align="justify">
+    Real-time Forex monitoring platform with interactive candlestick charts, personalized watchlist, scraping-based data collection, and user profile management.
+  </p>
+  <a href="https://github.com/Dionisio202/ForexRadar-frontEnd" target="_blank">
+    <img src="https://img.shields.io/badge/FRONTEND-blue?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  <a href="https://github.com/Dionisio202/ForexRadar-backend" target="_blank">
+    <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=django&logoColor=white">
+  </a>
+</td>
+
   </tr>
 </table>
 
