@@ -81,7 +81,7 @@
       </a>
     </td>
    <td align="center" width="300">
-  <img src="./trackr.png" width="250" alt="ForexRadar App"/><br>
+  <img src="./Dionisio202.png" width="250" alt="ForexRadar App"/><br>
   <h3>ForexRadar App (React + Django)</h3>
   <p align="justify">
     Real-time Forex monitoring platform with interactive candlestick charts, personalized watchlist, scraping-based data collection, and user profile management.
