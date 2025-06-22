@@ -73,13 +73,13 @@
   </tr>
   <tr>
     <td align="center" width="300">
-      <img src="./assets/gestion-bpm.png" width="250" alt="Gestión BPM DINNOVA"/><br>
-      <h3>BPM Process Management - DINNOVA</h3>
-      <p align="justify">Enterprise solution using Blazor + SQL Server to automate intellectual property processes at Universidad Técnica de Ambato, implementing Clean Architecture.</p>
-      <a href="https://github.com/tu-repo-gestion-bpm">
-        <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </td>
+  <img src="./save-money-app.png" width="250" alt="Save Money App"/><br>
+  <h3>Save Money App - Personal Finance Management</h3>
+  <p align="justify">Native Android application developed in Kotlin with Supabase backend for complete personal finance management. Features interactive charts, financial calendar, and secure cloud synchronization.</p>
+  <a href="https://github.com/tu-repo-save-money-app">
+    <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</td>
    <td align="center" width="300">
   <img src="./Dionisio202.png" width="250" alt="ForexRadar App"/><br>
   <h3>ForexRadar App (React + Django)</h3>
