@@ -76,7 +76,7 @@
   <img src="./save-money-app.png" width="250" alt="Save Money App"/><br>
   <h3>Save Money App - Personal Finance Management</h3>
   <p align="justify">Native Android application developed in Kotlin with Supabase backend for complete personal finance management. Features interactive charts, financial calendar, and secure cloud synchronization.</p>
-  <a href="https://github.com/tu-repo-save-money-app">
+  <a href="https://github.com/Dionisio202/Save_money_App">
     <img src="https://img.shields.io/badge/CODE-yellow?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </td>
