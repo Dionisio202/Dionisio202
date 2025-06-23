@@ -60,9 +60,9 @@
       <a href="https://github.com/YasArcher/front-seguridad" target="_blank">
     <img src="https://img.shields.io/badge/FRONTEND-blue?style=for-the-badge&logo=react&logoColor=white">
   </a>
-  <a href="https://github.com/Dionisio202/Repositorio_Seguridad" target="_blank">
-    <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=django&logoColor=white">
-  </a>
+<a href="https://github.com/Dionisio202/Repositorio_Seguridad" target="_blank">
+    <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=flask&logoColor=white">
+</a>
     </td>
    <td align="center" width="300">
   <img src="./weather_and_prediction.png" width="250" alt="Weather Prediction System"/><br>
