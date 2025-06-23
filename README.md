@@ -53,7 +53,17 @@
 
 <table>
   <tr>
-    
+   <td align="center" width="300">
+      <img src="./repositorio-seguro.png" width="250" alt="Repositorio Seguro"/><br>
+      <h3>Secure Repository</h3>
+      <p align="justify">A web platform with double-layer AES-128 encryption, advanced access control, granular permissions system, and digital signature for maximum document security.</p>
+      <a href="https://github.com/YasArcher/front-seguridad" target="_blank">
+    <img src="https://img.shields.io/badge/FRONTEND-blue?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+<a href="https://github.com/Dionisio202/Repositorio_Seguridad" target="_blank">
+    <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=flask&logoColor=white">
+</a>
+    </td> 
    <td align="center" width="300">
   <img src="./weather_and_prediction.png" width="250" alt="Weather Prediction System"/><br>
   <h3>Weather Prediction System</h3>
@@ -86,17 +96,6 @@
     <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=django&logoColor=white">
   </a>
 </td>
-<td align="center" width="300">
-      <img src="./repositorio-seguro.png" width="250" alt="Repositorio Seguro"/><br>
-      <h3>Secure Repository</h3>
-      <p align="justify">A web platform with double-layer AES-128 encryption, advanced access control, granular permissions system, and digital signature for maximum document security.</p>
-      <a href="https://github.com/YasArcher/front-seguridad" target="_blank">
-    <img src="https://img.shields.io/badge/FRONTEND-blue?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-<a href="https://github.com/Dionisio202/Repositorio_Seguridad" target="_blank">
-    <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logo=flask&logoColor=white">
-</a>
-    </td>
   </tr>
 </table>
 
